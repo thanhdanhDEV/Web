@@ -1,0 +1,32 @@
+.navbar {
+    background: #A87242 !important;
+}
+
+.navbar a {
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.navbar-2 {
+    justify-content: flex-end !important;
+}
+
+.navbar-collapse {
+    flex-grow: 1;
+}
+
+.navbar-brand {
+    padding-left: 35px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 2rem;
+}
+
+.container-2 {
+    background: #C49870;
+    margin-top: 0px !important;
+    padding-top: 20px;
+}
+
+.container-left {
+    /* background: #000; */
+}
